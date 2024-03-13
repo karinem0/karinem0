@@ -10,7 +10,7 @@
 - 💞️ Abierta a colaboraciones y proyectos emocionantes en el ámbito del análisis de datos.
 
 ## Cómo contactarme
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](www.linkedin.com/in/karine-machado-rosa)
+¡Me encantaría conectarme contigo! Puedes encontrarme en (www.linkedin.com/in/karine-machado-rosa)
 
 ¡Gracias por visitar mi perfil! Espero que podamos conectar y colaborar en proyectos interesantes juntos. 😊
 
