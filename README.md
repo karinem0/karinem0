@@ -1,6 +1,6 @@
 # Hola, soy Karine! 👋
 
-¡Bienvenidos a mi perfil de GitHub! Soy una apasionada del mundo del análisis de datos en constante aprendizaje y crecimiento. Tengo 25 años y actualmente estoy inmersa en un bootcamp de análisis de datos en Adalab, donde estoy adquiriendo habilidades y conocimientos para convertirme en una profesional sólida en este campo fascinante.
+¡Bienvenidos a mi perfil de GitHub! Soy una apasionada del mundo del análisis de datos en constante aprendizaje y crecimiento. Tengo 25 años, recién titulada como analista de datos en el bootcamp de Adalab, donde he adquirido habilidades y conocimientos técnicos para convertirme en una profesional sólida en este campo.
 
 ## Sobre mí
 - 💼 Estudiando el Bootcamp de Análisis de Datos en Adalab.
